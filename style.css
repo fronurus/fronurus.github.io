@@ -1,0 +1,21 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+*,*::after,*::before{
+    box-sizing: inherit;
+    background-color: aquamarine;
+}
+body{
+    background-color: cadetblue;
+}
+h2{
+    text-align: center;
+    background-color: lavender;
+    margin: auto;
+    padding: 10px;
+
+}
+hr{
+    border: 1px black dotted;
+}
