@@ -4,7 +4,7 @@ html{
 }
 *,*::after,*::before{
     box-sizing: inherit;
-    background-color: aquamarine;
+    background-color: #ffd755;
 }
 body{
     background-color: cadetblue;
